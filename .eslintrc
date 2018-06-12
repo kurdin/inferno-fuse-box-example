@@ -1,0 +1,9 @@
+{
+  "extends": "inferno-app",
+  "rules": {
+  	"no-restricted-globals": 0,
+  	"no-debugger": 1,  	
+  	"jsx-a11y/role-has-required-aria-props": 0,
+  	"jsx-a11y/anchor-is-valid": 0
+  }
+}
